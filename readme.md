@@ -108,9 +108,6 @@ project/
 │
 ├── output/
 │   ├── performance.txt
-│   └── performance.csv
-│
-└── visualize.py
 ```
 
 ---
@@ -199,42 +196,6 @@ Source Destination Weight
 * Adjacency Matrix implementation
 * Adjacency List optimization
 * Execution time comparison
-* CSV export support
-* Graph visualization support
-
----
-
-# 🔮 Future Scope
-
-Possible future improvements:
-
-* GUI using Streamlit or Flask
-* Real-time packet animation
-* Dynamic topology changes
-* Router failure simulation
-* Congestion simulation
-* Priority Queue optimization
-* Real protocol emulation
-* Large-scale sparse network benchmarking
-
----
-
-# 🛠️ Technologies Used
-
-* C Programming
-* GCC Compiler
-* Windows Console
-* Python (Visualization)
-* NetworkX
-* Matplotlib
-
----
-
-# 👨‍💻 Developed For
-
-Design and Analysis of Algorithms (DAA)
-
-Network Routing Simulation and Performance Analysis
 
 ---
 
